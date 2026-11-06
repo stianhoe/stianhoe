@@ -1,13 +1,12 @@
 ### Hi there, I'm Stian 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stianhoel/)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stianhoel/)
-
-[![Stian's GitHub stats](https://github-readme-stats.vercel.app/api?username=stianhoe&show_icons=true&theme=dark)](https://github.com/stianhoe/github-readme-stats)
-
+[![Stian's GitHub stats](https://github-readme-stats.vercel.app/api?username=stianhoe&show_icons=true&theme=dark)](https://github.com/stianhoe)
 
 <!--
-**stianhoe/stianhoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stianhoe/stianhoe** is a ✨ special ✨ repository because its README.md
+(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,5 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stianhoe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=stianhoe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+/>
 -->
